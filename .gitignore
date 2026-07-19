@@ -1,0 +1,11 @@
+# === PRIVATE study material — never publish ===
+# The auto-synced per-topic study guides are personal revision notes
+# (derived from course/lecture material). Keep them out of the public repo.
+Sec+ Topics/
+
+# Obsidian workspace/config
+.obsidian/
+
+# OS junk
+.DS_Store
+Thumbs.db
