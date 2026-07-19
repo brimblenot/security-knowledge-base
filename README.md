@@ -48,12 +48,14 @@ See [Skills by Domain](Skills%20by%20Domain.md) for what I can do, and the live 
 
 ## 🔗 Projects
 
-- **[Security+ Study App](#)** — a full-stack study app I built (Next.js) that generates study guides and adaptive quizzes across all Sec+ domains. _(link once published)_
-- **SOC / AD Home Lab** — _in progress_
+- **[Security+ Study App](https://github.com/brimblenot/secplus-coach)** — a full-stack study app I built (Next.js) that generates AI-powered study guides and adaptive quizzes across all Sec+ domains, with weak-area tracking and progress analytics.
+- **[Job Search Agent System](https://github.com/brimblenot/job-search-agent-system)** — an autonomous multi-agent system (Python) that automates job searching, analysis, resume tailoring, and outreach using Claude AI. Built with a scout/analyst/tailor/outreach agent architecture and an orchestration layer.
+- **[Discord Admin Bot](https://github.com/brimblenot/discord-admin-bot)** — an AI-powered Discord bot that manages servers via natural-language commands, using Claude tool-use to create channels, roles, and permissions.
+- **SOC / AD Home Lab** — Wazuh SIEM + Suricata IDS detecting simulated attacks from Kali across a Windows Active Directory domain. _(in progress)_
 
 ---
 
 ## 📫 Contact
 - GitHub: [brimblenot](https://github.com/brimblenot)
-- LinkedIn: _(add link)_
+- LinkedIn: https://www.linkedin.com/in/samuel-thomas-kaiser/
 - Email: sam.kaiser7@outlook.com
