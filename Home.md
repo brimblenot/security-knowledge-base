@@ -3,7 +3,7 @@
 My working notes, labs, certifications, and study material across **security, cloud, and networking** as I build toward cloud security engineering. Security+ is the foundation (certified); AWS Solutions Architect and Cisco CCNA are the current study tracks.
 
 ## 🎓 Certifications & study tracks
-- **CompTIA Security+ (SY0-701)** — ✅ certified · [[Sec+ Progress Dashboard|progress dashboard]]
+- **CompTIA Security+ (SY0-701)** — ✅ certified
 - **AWS Solutions Architect – Associate (SAA-C03)** — 🔄 studying
 - **Cisco CCNA** — 🔄 studying
 - Full plan: [[Concepts/Cert Roadmap|Cert Roadmap]]
@@ -13,11 +13,8 @@ My working notes, labs, certifications, and study material across **security, cl
 ### 👔 Recruiter-facing (public)
 - [[README]] — portfolio landing page
 - [[Skills by Domain]] — competency summary
-- [[Sec+ Progress Dashboard]] — live mastery per topic (run `npm run kb:sync` to refresh)
 
 > The `Sec+ Topics/` folder is **private study material** (auto-synced guides) and is gitignored — it won't publish.
-
-### Progress
 
 ### Sec+ Domains
 - [[01 General Security Concepts/_index|1. General Security Concepts]]
