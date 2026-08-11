@@ -1,6 +1,12 @@
 # 🏠 Cybersecurity Knowledge Base
 
-My working notes, labs, and study material as I prepare for CompTIA Security+ and build toward cloud security engineering.
+My working notes, labs, certifications, and study material across **security, cloud, and networking** as I build toward cloud security engineering. Security+ is the foundation (certified); AWS Solutions Architect and Cisco CCNA are the current study tracks.
+
+## 🎓 Certifications & study tracks
+- **CompTIA Security+ (SY0-701)** — ✅ certified · [[Sec+ Progress Dashboard|progress dashboard]]
+- **AWS Solutions Architect – Associate (SAA-C03)** — 🔄 studying
+- **Cisco CCNA** — 🔄 studying
+- Full plan: [[Concepts/Cert Roadmap|Cert Roadmap]]
 
 ## Map of content
 

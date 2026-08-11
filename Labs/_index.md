@@ -13,4 +13,7 @@ Hands-on lab writeups — school labs and home lab projects. Each follows [[_tem
 ## Home lab projects
 - _(e.g. [[SOC Lab - Wazuh + AD Detection]])_
 
+## Backlog
+- [[Project Backlog]] — future hands-on projects to pursue (threat hunting, SOAR scripting, honeypot, IOC research, and more).
+
 > Tip: the cleaned-up versions of these are what you publish to GitHub. They're your strongest interview material — be able to walk through one end to end.
