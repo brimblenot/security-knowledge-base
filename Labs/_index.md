@@ -10,8 +10,9 @@ Hands-on lab writeups — school labs and home lab projects. Each follows [[_tem
 - [[Lab 4 - DDoS]] — network attacks / availability _(domain 2)_
 - [[Lab 5 - Vulnerability Assessment]] — vuln scanning & remediation _(domain 4)_
 
-## Home lab projects
-- _(e.g. [[SOC Lab - Wazuh + AD Detection]])_
+## Projects
+- [[KPMG IT Security Audit]] — GRC risk assessment & compliance audit of a financial institution (NIST CSF, GLBA, PCI DSS) _(domain 5)_
+- SOC / SIEM Home Lab — Wazuh SIEM, attack detection, custom rules ([GitHub](https://github.com/brimblenot/soc-home-lab))
 
 ## Backlog
 - [[Project Backlog]] — future hands-on projects to pursue (threat hunting, SOAR scripting, honeypot, IOC research, and more).

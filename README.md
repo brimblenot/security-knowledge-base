@@ -3,7 +3,7 @@
 Aspiring cybersecurity professional (JMU CIS, cybersecurity concentration, May 2026) working toward **cloud security engineering**. This is my working portfolio spanning **security, cloud, and networking** — hands-on labs, certifications, study notes, and projects.
 
 📍 Currently: **CompTIA Security+ ✅ certified** · studying for **AWS Solutions Architect – Associate** and **Cisco CCNA** · building a SOC/Active Directory home lab
-🎯 Target: SOC / security analyst → cloud security engineer
+🎯 Open to entry-level roles across security, IT, and tech — including SOC/security analyst, IT support, and cloud security — building toward cloud security engineering
 
 ---
 
@@ -20,6 +20,8 @@ Full sequence and rationale in the [Cert Roadmap](Concepts/Cert%20Roadmap.md). C
 ---
 
 ## 🧪 Hands-on Labs
+
+> ⭐ **Featured — GRC / Risk Assessment:** [IT Security Audit — Midwest Central Bank](Labs/KPMG%20IT%20Security%20Audit.md) (KPMG-sponsored competition). A full cybersecurity risk assessment and compliance audit of a financial institution against the NIST Cybersecurity Framework, GLBA, and PCI DSS v4.0, with a costed remediation roadmap presented to industry judges. **[📄 Report](Labs/attachments/Midwest-Central-Bank-Security-Audit-Report.pdf)** · **[📊 Presentation](Labs/attachments/Midwest-Central-Bank-Security-Audit-Presentation.pdf)**
 
 Applied security work from my coursework (CIS 425) — offensive and defensive.
 
